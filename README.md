@@ -29,4 +29,4 @@ The full terminal palette is in [`colors.toml`](colors.toml). The icon theme is 
 
 ## Background provenance
 
-The five installed wallpapers were generated specifically for this theme. They depict fictional, anonymous athletes and intentionally keep all faces out of frame. Generation details and the source credit for the background retained in `preview.png` are listed in [`CREDITS.md`](CREDITS.md).
+The theme currently includes two edited photographs from Pexels: a live fight-night octagon and a monochrome hand-wrap close-up. Photographer and source details are listed in [`CREDITS.md`](CREDITS.md).

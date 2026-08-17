@@ -1,15 +1,11 @@
-# Background provenance
+# Background credits
 
-The installed wallpapers were generated specifically for this theme with OpenAI ImageGen on 17 August 2026. The scenes and athletes are fictional; every composition intentionally excludes visible faces, names, logos, and real event branding.
+The wallpaper and preview artwork use edited photographs made available under the [Pexels license](https://www.pexels.com/license/).
 
-| Wallpaper | Scene |
-| --- | --- |
-| `01-roundhouse-impact.jpg` | Roundhouse kick meeting a forearm guard |
-| `02-octagon-overhead.jpg` | Overhead exchange showing the full octagon |
-| `03-glove-impact.jpg` | Open-finger MMA gloves colliding in a parry |
-| `04-cage-body-kick.jpg` | Cage-side body kick seen through the fence |
-| `05-ground-scramble.jpg` | Canvas-level takedown scramble |
+| Asset | Photographer | Source |
+| --- | --- | --- |
+| `backgrounds/01-fight-night.jpg` | Mido Makasardi | [Mixed Martial Arts Fight Night in Vienna Arena](https://www.pexels.com/photo/mixed-martial-arts-fight-night-in-vienna-arena-28550405/) |
+| `backgrounds/02-hand-wraps.jpg` | Tima Miroshnichenko | [Grayscale Photo of a Person with Hand Wraps](https://www.pexels.com/photo/grayscale-photo-of-a-person-with-hand-wraps-5750850/) |
+| `preview.png` background | Mido Makasardi | [MMA fighter training behind a cage](https://www.pexels.com/photo/mma-fighter-in-training-behind-cage-28550403/) |
 
-## Preview image
-
-The theme UI mockup in `preview.png` retains an edited background crop from Mido Makasardi's [MMA fighter training behind a cage](https://www.pexels.com/photo/mma-fighter-in-training-behind-cage-28550403/), made available under the [Pexels license](https://www.pexels.com/license/). It is documentation artwork and is not installed as a wallpaper.
+The source photographs are not relicensed under the theme configuration's license; their use remains governed by Pexels' terms. `preview.png` is documentation artwork and is not installed as a wallpaper.
