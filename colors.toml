@@ -1,0 +1,32 @@
+# MMA for Omarchy v4.
+mode = "dark"
+
+accent = "#BE3A2F"
+selection = "#542824"
+muted = "#929CA5"
+
+background = "#090B0D"
+dark_background = "#060708"
+darker_background = "#040506"
+lighter_background = "#272D32"
+
+foreground = "#F2EEE7"
+dark_foreground = "#B9B6B0"
+light_foreground = "#FAF7F2"
+bright_foreground = "#FFFFFF"
+
+red = "#BE3A2F"
+yellow = "#D3A24B"
+orange = "#C7793B"
+green = "#7F9B76"
+cyan = "#72A3A6"
+blue = "#667F99"
+magenta = "#9A728D"
+brown = "#8B6C52"
+
+bright_red = "#E15A4D"
+bright_yellow = "#F0C66C"
+bright_green = "#A5C39A"
+bright_cyan = "#9BC9CC"
+bright_blue = "#8FA9C2"
+bright_magenta = "#C29AAF"
