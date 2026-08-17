@@ -1,6 +1,6 @@
 # Omarchy MMA Theme
 
-A dark, cinematic [Omarchy](https://omarchy.org) theme inspired by the discipline of striking: cage geometry, worn equipment, preparation, movement, and light. The backgrounds are deliberately faceless and focus on martial arts as craft rather than violence.
+A dark, cinematic [Omarchy](https://omarchy.org) theme inspired by the discipline of striking: cage geometry, worn equipment, preparation, movement, and light. The backgrounds emphasize form, equipment, and atmosphere, presenting martial arts as craft rather than violence.
 
 ![MMA theme preview](preview.png)
 
