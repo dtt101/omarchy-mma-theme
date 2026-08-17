@@ -27,6 +27,6 @@ omarchy theme install https://github.com/dtt101/omarchy-mma-theme
 
 The full terminal palette is in [`colors.toml`](colors.toml). The icon theme is `Yaru-red`.
 
-## Background credits
+## Background provenance
 
-The five edited background crops are sourced from Pexels and used under the [Pexels license](https://www.pexels.com/license/). Individual photographers and source pages are listed in [`CREDITS.md`](CREDITS.md).
+The five installed wallpapers were generated specifically for this theme. They depict fictional, anonymous athletes and intentionally keep all faces out of frame. Generation details and the source credit for the background retained in `preview.png` are listed in [`CREDITS.md`](CREDITS.md).
