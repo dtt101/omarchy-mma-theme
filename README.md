@@ -29,4 +29,4 @@ The full terminal palette is in [`colors.toml`](colors.toml). The icon theme is 
 
 ## Background provenance
 
-The theme currently includes two edited photographs from Pexels: a live fight-night octagon and a monochrome hand-wrap close-up. Photographer and source details are listed in [`CREDITS.md`](CREDITS.md).
+The theme currently includes one edited fight-night octagon photograph from Pexels. Photographer and source details are listed in [`CREDITS.md`](CREDITS.md).
