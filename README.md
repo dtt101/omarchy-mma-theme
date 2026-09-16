@@ -10,9 +10,6 @@ MMA Vibrant: a dark Omarchy theme with charcoal backgrounds, bright amber accent
 omarchy theme install https://github.com/dtt101/omarchy-mma-theme
 ```
 
-Omarchy derives the theme name `mma` from the repository name `omarchy-mma-theme`.
-The installer replaces an existing `~/.config/omarchy/themes/mma` directory and applies the theme, so there is no need to delete your local theme first. Back up any unpublished edits before reinstalling.
-
 ## Palette
 
 | Role | Hex |
@@ -28,11 +25,11 @@ The installer replaces an existing `~/.config/omarchy/themes/mma` directory and 
 | Blue | `#71b7f4` |
 | Magenta | `#d899e9` |
 
-The complete palette is in [`colors.toml`](colors.toml). Omarchy generates application configurations from this palette using its installed theme templates. Use an Omarchy version that supports this `colors.toml` format.
+The complete palette is in [`colors.toml`](colors.toml). Omarchy generates application configurations from this palette using its installed theme templates. 
 
 ## Contents
 
 - `colors.toml`: the MMA Vibrant palette.
-- `backgrounds/mma.png`: the wallpaper from the local MMA theme.
+- `backgrounds/mma.png`: the wallpaper 
 
 See [`LICENSE.md`](LICENSE.md) and [`CREDITS.md`](CREDITS.md) for licensing and asset notes.
